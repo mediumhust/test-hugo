@@ -1,0 +1,4 @@
+baseURL: ""
+languageCode: ""
+title: "My New Hugo Site"
+theme: "ananke"
